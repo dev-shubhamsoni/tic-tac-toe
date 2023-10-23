@@ -38,6 +38,10 @@ body {
   font-size: 55px;
 }
 
+.grid-item:active{
+  transform: translateY(2.5px);
+}
+
 h2{
     color: white;
 }
